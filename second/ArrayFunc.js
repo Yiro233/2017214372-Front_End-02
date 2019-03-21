@@ -23,7 +23,7 @@ function func_3(array) {
     });
     return arr;
 }
-var array = [1,2,2,3,4,5,6];
+var array = [1,2,2,3,4,5,6,6,6,6];
 console.log(func_1(array));
 console.log(func_2(array));
 console.log(func_3(array));
